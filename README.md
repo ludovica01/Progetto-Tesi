@@ -4,7 +4,8 @@ Progetto di tesi triennale in Informatica / Cybersecurity.
 
 ## Descrizione
 Questo repository contiene il codice sviluppato per la tesi triennale intitolata  
-**“Titolo completo della tesi”**.
+**"Rilevamento di Recensioni False: Approcci di Machine Learning e Valutazione delle
+Performance"**.
 
 Il lavoro affronta il problema del rilevamento delle recensioni vere (scritte da umani) rispetto a quelle generate dal computer,
 con l’obiettivo di aumentare il più possibile i parametri che identificano l'accuratezza dei modelli.
@@ -55,14 +56,17 @@ I modelli possono essere rigenerati eseguendo i notebook di training.
    ```bash
    pip install -r requirements.txt
 
-Risultati
+---
+
+
+## Risultati
 
 I risultati ottenuti mostrano che il sistema sviluppato è in grado di distinguere in modo efficace tra recensioni autentiche e recensioni false. I modelli di Machine Learning applicati hanno raggiunto buone prestazioni complessive, mentre l’approccio basato su rete neurale ha ottenuto i risultati migliori, con un’accuratezza pari a circa 94% e valori di precision, recall e F1-score bilanciati tra le due classi.
 L’analisi delle metriche e della matrice di confusione evidenzia una buona capacità di generalizzazione del modello e un numero contenuto di errori di classificazione, rendendo l’approccio adatto a scenari reali di rilevamento automatico di recensioni fraudolente.
 Per un’analisi dettagliata dei risultati sperimentali e del confronto tra i modelli si rimanda alla tesi completa.
 
 
-Autore
+### Autore
 Ludovica Marinangeli
 Corso di Laurea Triennale in Ingegneria Informatica
 Università degli Studi di Roma Tre
