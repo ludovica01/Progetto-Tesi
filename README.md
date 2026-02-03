@@ -31,16 +31,6 @@ Gli obiettivi principali del progetto sono:
 
 ---
 
-## Struttura del repository
-├── notebooks/ # Notebook principali del progetto
-├── src/ # Funzioni di supporto e moduli Python
-├── data/ # Dataset (non inclusi)
-├── requirements.txt # Dipendenze Python
-└── README.md
-
-
----
-
 ## Dataset
 I dataset utilizzati nel progetto **non sono inclusi nel repository** per motivi di
 dimensione e/o licenza.
